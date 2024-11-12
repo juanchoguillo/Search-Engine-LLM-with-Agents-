@@ -8,7 +8,7 @@ from langchain.callbacks import StreamlitCallbackHandler ## allow you to cominic
 import os 
 from dotenv import load_dotenv
 load_dotenv()
-st.secrets["GROQ_API_KEY"]
+# st.secrets["GROQ_API_KEY"]
 
 
 ## Arxiv, wikipedia and DuckDuckGoSearch Tools
